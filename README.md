@@ -24,5 +24,6 @@ A Manually Count data collected on location 01 - Towards Mile 2 Westbound, Along
 Although already clean and entered Excel tool. Python, a data analysis tool was used to get some insight into the information in the data and summary statistics of the dataset 
 
 
-## IV. Methodology
+## IV. Comparism Between Using a Manual Approach and Automated Approach
+
 
