@@ -31,6 +31,23 @@ The current approach of collecting data manually is not a perfect approach as ma
 ![image](https://github.com/Anthonyomowumi/Business-Intelligence/assets/93340041/f5049f08-0d70-4a5f-9d32-5292f9483c8c)
 Traffic Camera Count Operation at night 
 
-### 2. Data Storage:
+### 2. Data Storage: 
+The data collected was usually stored in various kinds of hardware such as hard drives and Flash drives. . Even though it is a portable type of storage, it is not the most effective way of storing essential data permanently. The proposed BI solution which is the artificially Intelligent Traffic Cameras, a great standalone device that allows for easy access to the data captured by connecting the traffic camera to a network router via computer network cables.
+After this, the data can then be transferred into a Data Warehouse. The proposed BI solution for the storage situation is the use of a Data Warehouse either on-premises or on the cloud.
+
+### 3. Data Reporting and Visualization Platform:
+A BI reporting platform is proposed to be used for the reporting of the data captured. A good reporting platform helps in automating business reports by collecting data from the data warehouse and creating an insightful report in a fraction of the time that it would normally take 
+![image](https://github.com/Anthonyomowumi/Business-Intelligence/assets/93340041/430c7944-8d7c-4e52-8a88-e3c98e24a612)
+Traffic Volume by Time Classification
+
+![image](https://github.com/Anthonyomowumi/Business-Intelligence/assets/93340041/0aebc49f-c993-4188-a886-9d4c90802589)
+Reporting Dashboard Built from the data captured using Looker studio
+
+The images above shows some of the insight that was gotten from analyzing and visualizing the data.
+
+
+
+
+
 
 
