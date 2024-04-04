@@ -1,7 +1,7 @@
 # AUTOMATED TRAFFIC DATA COLLECTION, STORAGE, AND REPORTING PLATFORM
 
 ## I. Project Summary
-This paper aimed to investigate the current traffic data collection, storage, reporting, and information-gathering methods in Lagos, Nigeria and suggesting an automated collection processing a traffic camera. This research seeks to provide a business solution. 
+This paper aimed to investigate the current traffic data collection, storage, reporting, and information-gathering methods in Lagos, Nigeria and and providing a business solution by using artificial intelligence traffic cameras in place of manual counting, creating a data warehouse, and including a reporting software tool in the solution, this study led to the development of an effective business intelligence solution for Engineers when it comes to Road Construction.
 ![image](https://github.com/Anthonyomowumi/Business-Intelligence/assets/93340041/21fce7a5-7f7d-4868-b27b-4a4c01e20332)
 
 
