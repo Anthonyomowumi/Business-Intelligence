@@ -25,9 +25,12 @@ Although already clean and entered Excel tool. Python, a data analysis tool was 
 
 
 ## IV. Comparism Between Using a Manual Approach and Automated Approach
+### 1. Data Collection:
 The current approach of collecting data manually is not a perfect approach as many factors can affect the accuracy of the data collected and thereby affect the road design or Business decision-making. The approach is prone to human errors during counting or during data entry. Therefore, this paper seeks to propose the use of Traffic Cameras as shown in above for monitoring and taking the counts of the vehicles.
+
 ![image](https://github.com/Anthonyomowumi/Business-Intelligence/assets/93340041/f5049f08-0d70-4a5f-9d32-5292f9483c8c)
 Traffic Camera Count Operation at night 
 
+### 2. Data Storage:
 
 
